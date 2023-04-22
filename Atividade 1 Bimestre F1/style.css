@@ -1,0 +1,151 @@
+.colorfundo{
+  background-color: black;
+}
+.menu{
+  background-color: black;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  height: 150px;
+  left: 0px;
+}
+.carousel {
+  top: 575px;
+  position: relative;
+  height: 300px;
+  overflow: hidden;
+}
+
+.carousel-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  }
+
+.carousel-images img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.5;
+ }
+
+.imagendomenu{
+  height: 40px;
+  margin: 10px 10px 10px 10x;
+  text-align: center;
+  width: 150pxpx;
+  height: 80px;
+  float: right;
+}
+
+.titulocentro{
+  background-color: white;
+  text-align: center;
+  margin-top:  50px;
+  font-weight: bold;
+  width: auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.imagemtitulo{
+  height: 40px;
+  margin: 10px 10px 10px 10x;
+  text-align: center;
+  width: 150px;
+  height: 80px;
+  float: left;
+}
+
+.tabela01{
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  width: 50%;
+  margin: 0 auto;
+}
+.titulotabela01{
+  font-size: 60px;
+  color: white;
+}
+.gp{
+  font-size: 25px;
+  color: white;
+}
+.bandeiras{
+  height: 20px;
+  width: 20px;
+}
+.tabela02{
+  float: left;
+  margin-top: 200px;
+  color: white;
+  text-align: center;
+  width: 30%;
+}
+.tabela03{
+  margin: 0 auto;
+  margin-top: 200px;
+  color: white;
+  text-align: center;
+  width: 30%;
+}
+.tabela04{
+  float: right;
+  margin-top: 200px;
+  color: white;
+  text-align: center;
+  width: 30%;
+}
+.tabela{
+  display: flex;
+  justify-content: space-between;
+}
+.tabela05{
+  margin: 0 auto;
+  margin-top: 200px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  width: 50%;
+}
+.centro{
+  text-align: center;
+}
+.equipes{
+  height: 70px;
+  width: 70px;
+}
+.tabela06{
+  float: left;
+  margin-top: 200px;
+  color: white;
+  text-align: center;
+  width: 30%;
+}
+.tabela07{
+  margin: 0 auto;
+  margin-top: 200px;
+  color: white;
+  text-align: center;
+  width: 30%;
+}
+.tabela08{
+  margin: 0 auto;
+  margin-top: 200px;
+  color: white;
+  text-align: center;
+  width: 40%;
+  height: 500px;
+}
+.tituloultimatabela{
+  font-size: 30px;
+}
+.tabela09{
+  margin: 0 auto;
+  margin-top: 200px;
+  color: white;
+  text-align: center;
+  width: 50%;
+  height: 500px;
+}
